@@ -7,3 +7,5 @@ Note: Some datasets may require a lot of computation due to the difference in di
 For now, the .obj file needs to be changed in the task.cpp file. However, it can be easily modified totake the filename as an argument to the main function by using the argv
 
 The executable uses the OBJ-Loader header file available at https://github.com/Bly7/OBJ-Loader.git to read the .obj files.
+
+The output is stored in the task/task/out.txt file.
